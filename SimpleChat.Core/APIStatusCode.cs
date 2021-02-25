@@ -11,7 +11,7 @@ namespace SimpleChat.Core
           /// <summary>
           /// Desc
           /// </summary>
-          public const string ERR01001 = "ERR01001";
+            public const string ERR01001 = "ERR01001";
 
         */
 
